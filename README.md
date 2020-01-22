@@ -15,7 +15,7 @@ As The name of the challenge sugget:We have to use `ls command`
 
 3.After unzipping the file we'll get directory named *'The FLag'*
 
-4. Using ```ls``` command check for the content of the unzip directory. Here you'll find a pdf which may content the flag. If you try to open this pdf. It'll ask for a password. Now the question is where you'll get the password?
+4.Using ```ls``` command check for the content of the unzip directory. Here you'll find a pdf which may content the flag. If you try to open this pdf. It'll ask for a password. Now the question is where you'll get the password?
 5.As per the challenge name suggested to find the flag ```ls``` command should play a great role. There must be somthing in this directory which will lead to any clue of the required password.
 In this case file/directory may be hidden. To check hidden files :
 
