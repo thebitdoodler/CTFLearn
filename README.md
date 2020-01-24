@@ -1,5 +1,5 @@
 # CTFLearn
-Solutions for CTFlearn Challenges 
+Solutions to CTFlearn Challenges 
 
 **1.Challenge Name : Taking LS:**
 
