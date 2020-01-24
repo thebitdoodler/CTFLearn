@@ -27,8 +27,4 @@ Here you'll get the password.
 
 **Happy Hunting**
 
-.
-.
-.
-
-*More Solutions are on the way:
+# More Solutions are on the way...
