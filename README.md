@@ -26,3 +26,8 @@ Get the password from that and open the pdf file.
 Here you'll get the password.
 
 **Happy Hunting**
+
+.
+.
+.
+*More Solutions are on the way:
