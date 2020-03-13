@@ -24,7 +24,12 @@ In this case file/directory may be hidden. To check hidden files :
 Here you'll get the password file which is a simple text file. 
 Get the password from that and open the pdf file.
 Here you'll get the password.
+---
+**2.Challenge Name : binwalk:**
+Will update next saturday.
 
+
+---
 **Happy Hunting**
 
 # More Solutions are on the way...
